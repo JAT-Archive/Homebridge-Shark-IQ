@@ -1,16 +1,16 @@
 {
   "private": true,
-  "displayName": "Roomba",
-  "name": "homebridge-Shark-IQ",
+  "displayName": "Shark IQ",
+  "name": "HomeBridge-Shark-IQ",
   "version": "1.0.0",
   "description": "Connects the Shark IQ to Apple Homekit!.",
   "license": "Apache-2.0",
   "repository": {
     "type": "git",
-    "url": "git://github.com/USERNAME/GITHUB_PROJECT_NAME.git"
+    "url": "git://github.com/JustATechie/Homebridge-Shark-IQ"
   },
   "bugs": {
-    "url": "https://github.com/USERNAME/GITHUB_PROJECT_NAME/issues"
+    "url": "https://github.com/JustATechie/Homebridge-Shark-IQ/issues"
   },
   "engines": {
     "node": ">=10.17.0",
