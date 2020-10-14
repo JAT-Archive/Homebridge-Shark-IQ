@@ -1,5 +1,5 @@
 {
-  "pluginAlias": "ExampleHomebridgePlugin",
+  "pluginAlias": "HomeBridgeSharkIQPlugin",
   "pluginType": "platform",
   "singular": true,
   "schema": {
