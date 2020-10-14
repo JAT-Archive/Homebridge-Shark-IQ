@@ -1,9 +1,9 @@
 {
   "private": true,
-  "displayName": "Plugin Name",
-  "name": "homebridge-plugin-name",
+  "displayName": "Roomba",
+  "name": "homebridge-Shark-IQ",
   "version": "1.0.0",
-  "description": "A short description about what your plugin does.",
+  "description": "Connects the Shark IQ to Apple Homekit!.",
   "license": "Apache-2.0",
   "repository": {
     "type": "git",
